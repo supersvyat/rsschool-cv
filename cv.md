@@ -29,6 +29,9 @@ Soon...
 
 Samara State Medical University, Pediatrician, 2013-2019.
 
+- [x] [Version Control with Git](https://learn.epam.com/detailsPage?id=601f195a-d408-4439-a16d-0630ed2a412e)
+- [ ] [Web-Services Introduction](https://learn.epam.com/detailsPage?id=d0bbd4f6-7e31-4211-8793-92a95286c4a9)
+
 ## English
 
 Pre Intermediate
